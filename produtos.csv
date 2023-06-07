@@ -1,5 +1,2 @@
-"nome","partido","estado","intenção de voto","col2","col3","observações","email","id"
-"Augusta Brito","PT","CE","A favor","","","(61) 3303-5940  ","sen.augustabrito@senado.leg.br",6350
-"Confúcio Moura","MDB","RO","A favor","","","(61) 3303-2470 / 2163 Isis ass de imp","sen.confuciomoura@senado.leg.br",475
-"Davi Alcolumbre","UNIÃO","AP","A favor","","","(61) 3303-6717 / 6720","sen.davialcolumbre@senado.leg.br",3830
-"Teste","","","","","","","",""
+"id","nome","modelo","imagem","preço final","comissão","tarifa sobre venda","impostos","custo compra","nome do fornecedor","lucro"
+1,"Chave de fenda isolada Facom","A3X75VE","https://static3.tcdn.com.br/img/img_prod/308619/5292_1_20170627112035.jpg",36.5,0.12,5.5,6.57,15,"Fulano",5.05
